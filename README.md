@@ -1,11 +1,5 @@
 # Olá, eu sou o Davi Brasil!
 
-<div align="leading">  
-  <a href="https://github.com/anneauzier">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anneauzier&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Davibrasil05">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&layout=compact&username=Davibrasil05">
-  </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
