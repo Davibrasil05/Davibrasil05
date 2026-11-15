@@ -1,6 +1,6 @@
-## About Me:
+##  <img width="32" height="32" alt="d5iuujc-7081221c-6dbf-490c-868e-2bb17905c87e" src="https://github.com/user-attachments/assets/5cf3a1a1-c631-4c28-87fd-e4abcd7bf3a1" /> About Me:
  👋 Hi, I'm Davi
- <img width="32" height="32" alt="d5iuujc-7081221c-6dbf-490c-868e-2bb17905c87e" src="https://github.com/user-attachments/assets/5cf3a1a1-c631-4c28-87fd-e4abcd7bf3a1" />
+
 
  <br><br>I'm a mobile developer from Manaus, Brazil, building apps across iOS and Android. I'm currently at the **Apple Developer Academy** (Eldorado Research Institute) and studying Software Engineering.<br><br>- 📱 Mobile development is my main focus: native iOS with **Swift and SwiftUI**, plus cross-platform with React Native and a growing interest in native **Android**<br>- 🚀 Co-built **[Anama](https://apps.apple.com/br/app/anama/id6810810488)**, a caregiver coordination app now live on the App Store, where I worked on the data layer, push notifications and authentication with Firebase<br>- 🤖 Exploring on-device AI with Apple's **Foundation Models** and **MLX**<br>- ⚙️ Mechatronics technician by background, so I enjoy embedded systems and C as much as UI<br>- 🌱 Always learning, currently diving deeper into native Android development
 
